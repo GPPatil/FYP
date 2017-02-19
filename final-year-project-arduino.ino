@@ -41,6 +41,7 @@
 
    // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ PROGRAM ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ //
 
+   #include <ESP8266Wifi.h>
 
    #include "dht.h"                                                                 // library for DHT11
    #include "ArduinoJson.h"                                                         // library to suppport data-interchange format between arduino and server
